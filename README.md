@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Michael 👋
 
-<!--
-**michaelpichura/michaelpichura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Research Associate** and **Backend Blockchain Developer** at the **Fraunhofer Institute for Material Flow and Logistics**, passionate about **Bitcoin**, **Blockchain**, and **Computer Science**.
 
-Here are some ideas to get you started:
+I focus on building backend systems and decentralized applications that solve real-world problems using Web3 technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Focus
+- **Languages**: JavaScript/TypeScript · Solidity · Java  
+- **Backend & Frameworks**: Node.js · NestJS · nx · Prisma  
+- **Databases & Messaging**: PostgreSQL · RabbitMQ
+- **Blockchain & Web3**: Bitcoin · Ethereum · Hardhat · NFTs
+- **DevOps & Tooling**: Docker · OKD · GitLab CI/CD
+
+---
+
+## 📬 Connect with me
+- 🌐 [Blog](https://michaelpichura.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/michaelpichura)  
+- 🐦 [X / Twitter](https://x.com/michaelpichura)  
