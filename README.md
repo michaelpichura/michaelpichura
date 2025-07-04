@@ -1,6 +1,6 @@
 # Hi, I'm Michael 👋
 
-I'm a **Research Associate** and **Backend Blockchain Developer** at the **Fraunhofer Institute for Material Flow and Logistics**, passionate about **Bitcoin**, **Blockchain**, and **Computer Science**.
+I'm a **Research Associate** and **Backend Developer** at the **Fraunhofer Institute for Material Flow and Logistics**, passionate about **Bitcoin**, **Blockchain**, and **Computer Science**.
 
 I focus on building backend systems and decentralized applications that solve real-world problems using Web3 technologies.
 
