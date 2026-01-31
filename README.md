@@ -6,10 +6,10 @@ I focus on building backend systems and decentralized applications that solve re
 
 ## 🛠 Tech Focus
 - **Languages**: Java · TypeScript · Solidity
-- **Backend**: Spring Boot · Node.js · NestJS · nx
-- **Persistence**: PostgreSQL · Prisma · Hibernate
-- **Blockchain & Web3**: Bitcoin · Ethereum · Besu · Hardhat
-- **DevOps & Tooling**: Git · GitLab CI/CD · Docker · OKD · npm · Maven
+- **Backend**: Spring Boot · NestJS · nx
+- **DevOps & Tooling**: Git · GitLab CI/CD · Docker · OKD · Maven · npm
+- **Persistence**: PostgreSQL · Hibernate · Prisma
+- **Blockchain**: Ethereum · Besu · Hardhat
 
 ## 📬 Connect with me
 - 🌐 [Blog](https://michaelpichura.com)  
