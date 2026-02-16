@@ -1,8 +1,6 @@
 # Hi, I'm Michael 👋
 
-I'm a **Research Associate** and **Backend Developer** at the **Fraunhofer Institute for Material Flow and Logistics**, passionate about **Software Development**, **Blockchain**, and **Computer Science**.
-
-I focus on building backend systems and decentralized applications that solve real-world problems.
+I'm a research associate and software engineer at the Fraunhofer Institute for Material Flow and Logistics in Dortmund, Germany. I studied computer science and now develop web-based applications and open-source software, with a focus on blockchain and Web3.
 
 ## 🛠 Tech Focus
 - **Languages**: Java · TypeScript · Solidity
