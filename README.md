@@ -1,6 +1,6 @@
 # Hi, I'm Michael 👋
 
-I'm a research associate and software engineer at the Fraunhofer Institute for Material Flow and Logistics in Dortmund, Germany. I studied computer science and now develop web-based applications and open-source software, with a focus on blockchain and Web3.
+I'm a senior software developer at opta data in Essen, Germany. I studied computer science and now develop web-based applications for the healthcare industry.
 
 ## 🛠 Tech Stack
 - **Java**: Spring Boot · Hibernate · JUnit
